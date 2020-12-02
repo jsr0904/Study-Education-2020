@@ -5,4 +5,4 @@
 
 2. Machine Learning Model
 
-3. Deep Learning 
+3. Deep Learning Model
