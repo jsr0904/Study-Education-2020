@@ -3,8 +3,8 @@
 
 #### 1. Regression Model
   * Regression Model 개념
-   * 단순선형회귀분석, 다중선형회귀분석, 로지스틱 회귀분석
-   * 변수선택법, 회귀계수 축소법(Ridge, Lasso)
+    * 단순선형회귀분석, 다중선형회귀분석, 로지스틱 회귀분석
+    * 변수선택법, 회귀계수 축소법(Ridge, Lasso)
   * Regression Model Code 구현
   
 #### 2. Decision Tree Model
